@@ -1,4 +1,6 @@
 duplicate,Received,Employer,City/Town,Region,Layoff date(s),Employees impacted
+False,5/21/2026,"MCAT, LLC (dba Harborview Treatment)","Cohasset, MA",Southeast,5/20/2026,66
+False,5/18/2026,"WestRock Services, LLC (aka WestRock and Smurfit Westrock)","Wakefield, MA",Boston,5/18/2026 - 5/31/2026,24
 False,5/13/2026,"Aramark Campus, LLC (dba Aramark)","Lowell, MA",Northeast,7/14/2026,54
 False,5/7/2026,"Dover Saddlery, Inc.","Littleton, MA",Central,7/7/2026 - 7/20/2026,112
 False,5/7/2026,"Community Healthlink, Inc. (aka CHL)","Leominster, Webster & Worcester, MA",Central,6/30/2026 - 7/6/2026,84
@@ -20,7 +22,6 @@ False,3/25/2026,"Takeda Pharmaceuticals USA, Inc. (dba Takeda)","Cambridge, MA",
 False,3/25/2026,Charles River Laboratories,"Wilmington, MA",Boston,4/24/2026 - 7/10/2026,71
 False,3/24/2026,"Revvity, Inc.","Boston, MA",Boston,6/1/2026 - 3/31/2027,29
 False,3/24/2026,"Compass Group USA, Inc. (dba Chartwells)","Boston, MA",Boston,5/27/2026,76
-False,3/18/2026,"WestRock Services, LLC (aka WestRock and Smurfit Westrock)","Wakefield, MA",Boston,5/18/2026,91
 False,3/12/2026,Boston Electrometallurgical Corporation (dba Boston Metal),"Woburn, MA",Boston,4/21/2026,71
 False,3/2/2026,"Goulet Trucking, Inc.","South Deerfield, MA",Western,4/18/2026,144
 False,2/18/2026,"Legends Global (dba Legends Attractions, LLC and Legends Music, LLC)","Boston, MA",Boston ,4/22/2026,41
