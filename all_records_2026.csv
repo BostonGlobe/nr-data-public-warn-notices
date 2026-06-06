@@ -1,10 +1,13 @@
 duplicate,Received,Employer,City/Town,Region,Layoff date(s),Employees impacted
+False,6/5/2026,SMBC Manubank (dba JeniusBank),Statewide,Statewide,8/3/2026,2
+False,6/4/2026,"Community Healthlink, Inc. (aka CHL)","Leominster, Webster & Worcester, MA",Central,7/31/2026,127
+False,6/2/2026,Jabil Inc. (aka Jabal - Clinton JHC),"Clinton, MA",Central,8/1/2026 - 12/1/2026,103
+False,6/1/2026,Chase Corporation,"Oxford, MA",Central,8/1/2026 - 12/31/2026,72
 False,5/26/2026,South Shore Elder Services,"Braintree, MA",Southeast,6/1/2026 - 6/30/2026,131
 False,5/21/2026,"MCAT, LLC (dba Harborview Treatment)","Cohasset, MA",Southeast,5/20/2026,66
 False,5/18/2026,"WestRock Services, LLC (aka WestRock and Smurfit Westrock)","Wakefield, MA",Boston,5/18/2026 - 5/31/2026,24
 False,5/13/2026,"Aramark Campus, LLC (dba Aramark)","Lowell, MA",Northeast,7/14/2026,54
 False,5/7/2026,"Dover Saddlery, Inc.","Littleton, MA",Central,7/7/2026 - 7/20/2026,112
-False,5/7/2026,"Community Healthlink, Inc. (aka CHL)","Leominster, Webster & Worcester, MA",Central,6/30/2026 - 7/6/2026,84
 False,5/5/2026,"Christianbook, LLC and Christianbook Fulfillment, LLC (dba Christianbook Entities)","Peabody, MA",Northeast,7/6/2026,50
 False,5/1/2026,Managed Services-IDS (dba Cardinal Health),"Tewksbury, MA",Northeast,6/30/2026,58
 False,5/1/2026,Community Counseling of Bristol County (aka CCBC),"Attleboro, Brockton, Fall River, New Bedford & Taunton, MA",Southeast,6/30/2026 - 7/13/2026,52
@@ -35,7 +38,6 @@ False,1/23/2026,Thermo Fisher Scientific,"Franklin, MA",Metro Southwest,12/31/20
 False,1/16/2026,"Medford CPL, Inc.","Medford, MA",Boston ,3/17/2026,63
 False,1/15/2026,"Takeda Pharmaceuticals America, Inc. (dba Takeda)","Cambridge, MA",Boston,1/14/2026,3
 False,1/15/2026,CRRC MA,"Springfield, MA",Western,3/16/2026,161
-False,1/14/2026,SMBC Manubank (dba JeniusBank),Statewide,Statewide,3/10/2026,161
 False,1/14/2026,"Curia Global, Inc.","Burlington, MA",Boston,3/10/2026- 6/1/2026,81
 False,1/8/2026,"Labcorp Early Development Laboratories, Inc., and Laboratory Corporation of America Holding (dba Labcorp)","Bedford, MA",Metro Southwest,3/9/2026 - 1/14/2027,94
 False,1/7/2026,"Tessera Therapeutics, Inc.","Somerville, MA",Boston,3/8/2026,82
