@@ -1,7 +1,8 @@
 duplicate,Received,Employer,City/Town,Region,Layoff date(s),Employees impacted
+False,nan,"Community Healthlink, Inc. (aka CHL)","Leominster, Webster & Worcester, MA",Central,8/31/2026,131
+False,6/24/2026,"Peabody Opco, LLC (f/k/a Christianbook, LLC) and Peabody Fulfillment, LLC (f/k/a Christianbook Fulfillment, LLC) (aka Christianbook Entities)","Peabody, MA",Northeast,8/31/2026,125
 False,6/15/2026,The Coca-Cola Company,Northampton,Western,8/15/26 & 11/30/26,175
 False,6/5/2026,SMBC Manubank (dba JeniusBank),Statewide,Statewide,8/3/2026,2
-False,6/4/2026,"Community Healthlink, Inc. (aka CHL)","Leominster, Webster & Worcester, MA",Central,7/31/2026,127
 False,6/2/2026,Jabil Inc. (aka Jabil - Clinton JHC),"Clinton, MA",Central,8/1/2026 - 12/1/2026,103
 False,6/1/2026,Chase Corporation,"Oxford, MA",Central,8/1/2026 - 12/31/2026,72
 False,5/26/2026,South Shore Elder Services,"Braintree, MA",Southeast,6/1/2026 - 6/30/2026,131
@@ -9,7 +10,6 @@ False,5/21/2026,"MCAT, LLC (dba Harborview Treatment)","Cohasset, MA",Southeast,
 False,5/18/2026,"WestRock Services, LLC (aka WestRock and Smurfit Westrock)","Wakefield, MA",Boston,5/18/2026 - 5/31/2026,24
 False,5/13/2026,"Aramark Campus, LLC (dba Aramark)","Lowell, MA",Northeast,7/14/2026,54
 False,5/7/2026,"Dover Saddlery, Inc.","Littleton, MA",Central,7/7/2026 - 7/20/2026,112
-False,5/5/2026,"Christianbook, LLC and Christianbook Fulfillment, LLC (dba Christianbook Entities)","Peabody, MA",Northeast,7/6/2026,50
 False,5/1/2026,Managed Services-IDS (dba Cardinal Health),"Tewksbury, MA",Northeast,6/30/2026,58
 False,5/1/2026,Community Counseling of Bristol County (aka CCBC),"Attleboro, Brockton, Fall River, New Bedford & Taunton, MA",Southeast,6/30/2026 - 7/13/2026,52
 False,5/1/2026,"Compass Group USA, Inc.","Boston, MA",Boston,7/1/2026,83
